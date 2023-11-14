@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/samyakj10295482" target="blank"><img src="https://img.shields.io/twitter/follow/samyakj10295482?logo=twitter&style=for-the-badge" alt="samyakj10295482" /></a> </p>
 
-- 🔭 I’m currently working on **Linkly**
+- 🔭 I’m currently working on **Lynkly**
 
 - 🌱 I’m currently learning **Go lang and Mojo**
 
