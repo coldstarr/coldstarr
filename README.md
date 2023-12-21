@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Lynkly**
 
-- 🌱 I’m currently learning **Go lang and Mojo**
+- 🌱 I’m currently learning **Go lang, Rust and Mojo**
 
 - 👯 I’m looking to collaborate on **Python based projects**
 
