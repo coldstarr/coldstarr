@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Go lang, Rust and Mojo**
 
-- 👯 I’m looking to collaborate on **Python based projects**
+- 👯 I’m looking to collaborate on **Java based projects**
 
 - 🤝 I’m looking for help with **DevOps**
 
@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@samyak6781](https://medium.com/@samyak6781)
 
-- 💬 Ask me about **react, django and aws**
+- 💬 Ask me about **react, springboot and aws**
 
 - 📫 How to reach me **samyak6781@outlook.com**
 
